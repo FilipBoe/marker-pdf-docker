@@ -1,1 +1,0 @@
-docker build --tag marker_pdf:latest .
